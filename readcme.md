@@ -1,3 +1,6 @@
+# Learnt Building components. components reusability and conditional rendering.
+
+
 When it comes to using the map function in react, it usually gives you an warning on console regarding key.
 (for that you need to pass the unique id to parent div, if you don't have it then pass the index as map function value or index accept krta h usually)
 
